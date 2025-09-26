@@ -1,0 +1,13 @@
+# OAuth secrets and tokens
+client_secret.json
+token_youtube_upload.pickle
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# OS
+.DS_Store
